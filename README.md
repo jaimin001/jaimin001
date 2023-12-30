@@ -3,8 +3,6 @@
 - 💻 Good at making low latency and rigid backend systems.  
 
 - 🌱 Currently learning Hyperledger and Cloud Native tools.  
-  
-<br>
 
 ## Connect with me  
 <div align="center">
@@ -27,15 +25,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jaimin001&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
   
 
 <br/>  
