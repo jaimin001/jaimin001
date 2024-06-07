@@ -1,8 +1,8 @@
 # Hey there, I am Jaimin Gajjar
 
-- 💻 Good at making low latency and rigid backend systems.  
+- 💻 Good at making low latency and rigid backend systems.
 
-- 🌱 Currently learning Hyperledger and Cloud Native tools.  
+- 🌱 Currently working with GenAI stuff.  
 
 <div align="center">
 <a href="https://github.com/jaimin001" target="_blank">
